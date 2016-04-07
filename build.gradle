@@ -129,6 +129,6 @@ tasks.withType(Test) {
         events 'passed'
     }
 }
-task wrapper(type: Wrapper) {
+/*task wrapper(type: Wrapper) {
     gradleVersion = '2.9'
-}
+}*/
